@@ -1,0 +1,18 @@
+{
+  "name": "sample-framework",
+  "version": "1.0.0",
+  "description": "a sample version of node framework , meant for internship project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/joseph-aswath/sample-framework.git)"
+  },
+  "keywords": [
+    "JJA"
+  ],
+  "author": "joseph_aswath <josephaswath@gmail.com>",
+  "license": "ISC"
+}
