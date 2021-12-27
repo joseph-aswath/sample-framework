@@ -1,3 +1,3 @@
-const isJja = require('is-JJA');
+const tester = require('@joseph_aswath/sample-framework');
 
-console.log(isJja("JJA"));
+console.log(tester("JJA"));
