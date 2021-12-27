@@ -1,6 +1,6 @@
 {
   "name": "@joseph_aswath/sample-framework",
-  "version": "1.0.0",
+  "version": "2.1.0",
   "description": "a sample version of node framework , meant for internship project ",
   "main": "index.js",
   "scripts": {

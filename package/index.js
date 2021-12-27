@@ -29,8 +29,8 @@ module.exports = jozcapz;
 ********************************************************************/
 
 //var sentence = "this is our test sentence";
-var sentence;
-console.log("\n",sentence,"\n");
+//var sentence;
+//console.log("\n",sentence,"\n");
 
 /* for loops instead of forEach*/
 function jozzie(sentence){
@@ -52,6 +52,6 @@ function jozzie(sentence){
     
 }
 
-console.log("\n" ,jozzie(sentence));
+//console.log("\n" ,jozzie(sentence));
 
 module.exports = {jozzie};
