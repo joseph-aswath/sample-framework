@@ -33,6 +33,7 @@ module.exports = jozcapz;
 //console.log("\n",sentence,"\n");
 
 /* for loops instead of forEach*/
+
 function jozzie(sentence){
     var words = sentence.split(" ");
     console.log("\n","array of words:",words,"\n");
