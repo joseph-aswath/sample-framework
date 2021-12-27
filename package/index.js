@@ -55,4 +55,4 @@ function jozzie(sentence){
 
 //console.log("\n" ,jozzie(sentence));
 
-module.exports = {jozzie};
+module.exports = jozzie;
