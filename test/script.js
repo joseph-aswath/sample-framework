@@ -1,19 +1,8 @@
-
-
-/*
-const tester = require('@joseph_aswath/sample-framework');
-
-console.log(tester("JJA"));
-*/
-/*********************************************************************/
-
-//var jozzie = require("@joseph_aswath/sample-framework");
-
 var jozzie = require("../package/index.js");
 
 var sentence = "testing this sentence";
 
-console.log("\n",sentence,"\n");
+console.log(sentence,"\n");
 
 jozzie(sentence);
 
